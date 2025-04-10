@@ -55,7 +55,7 @@ flowchart TD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rashmika-voice-assistant.git
+   git clone https://github.com/parmarjh/rashmika-voice-assistant.git
    cd rashmika-voice-assistant
    ```
 
